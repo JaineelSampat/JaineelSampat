@@ -92,26 +92,20 @@ $ cat about_me.txt
 ## `[fetch --stats]`
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JaineelSampat&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaineelSampat&theme=chartreuse-dark&hide_border=true&layout=compact" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=JaineelSampat&theme=highcontrast&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabelColor=00FF41" width="100%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=JaineelSampat&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=15&column=6" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=JaineelSampat&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JaineelSampat&theme=chartreuse-dark&hide_border=true&layout=compact" height="165"/>
+
 </div>
-
-### `[top --contributed-repo]`
-
+### `[activity --graph]`
+ 
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=JaineelSampat&limit=5&theme=github_dark&combine_all_yearly_contributions=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JaineelSampat&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" width="100%"/>
 </div>
-
 <br>
-
 <div align="center">
-
 ---
-
-[![](https://visitcount.itsvg.in/api?id=JaineelSampat&icon=0&color=2)](https://visitcount.itsvg.in)
-
+ 
+![Visitor Count](https://komarev.com/ghpvc/?username=JaineelSampat&label=Profile%20Views&color=00ff41&style=for-the-badge)
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
-
 </div>
